@@ -1,6 +1,6 @@
 ### Hi there, I'm Supriya 👋
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw2GTIQ0zc32QLTU9S0gLQBy&ust=1691832740991000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiwgJ6m1IADFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 ## Aspiring Software Developer | Passionately Crafting Code for Progress
 
